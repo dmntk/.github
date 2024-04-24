@@ -1,4 +1,4 @@
-**Decision Model and Notation Toolkit** (DMNTK) **is deprecated** 📦 in favor of **[Decision Toolkit](https://github.com/DecisionToolkit)** 🚀.
+DMNTK **is deprecated** 📦 in favor of **[Decision Toolkit](https://github.com/DecisionToolkit)** 🚀.
 
 **[Decision Toolkit](https://github.com/DecisionToolkit)** provides all functionalities of DMNTK and much more.
 
