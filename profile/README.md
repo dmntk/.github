@@ -1,1 +1,1 @@
-**dmntk* | Decision Model and Notation Toolkit
+**dmntk** | Decision Model and Notation Toolkit
