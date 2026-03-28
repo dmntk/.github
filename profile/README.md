@@ -5,7 +5,7 @@
 If you encounter any problems replacing DMNTK with **[ÐecisionToolkit]**,
 please file an issue **[here](https://github.com/DecisionToolkit/dsntk/issues)**.
 
-To install [ÐecisionToolkit] run:
+To install **[ÐecisionToolkit]** run:
 
 ```shell
 cargo install dsntk
